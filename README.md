@@ -19,9 +19,8 @@ Atliq Hardware sells its products through multiple channels, including e-commerc
 ### 2. Exploratory Data Analysis (EDA)
 - **Purpose:** To uncover underlying patterns and trends in the data.
 - **Activities:** Conducted an in-depth exploration of sales data, including:
-  - Identifying key performance indicators (KPIs) such as sales volume, revenue, and customer demographics.
+  - Identifying key performance indicators (KPIs) such as sales sold quantity, revenue, and discounts.
   - Analyzing sales distribution across different channels and regions.
-  - Visualizing data trends and anomalies.
 
 ### 3. SQL Query Development
 - **Purpose:** To perform specific analyses and generate insights.
@@ -47,7 +46,7 @@ This project provided Atliq Hardware's management with crucial insights that ena
 ## How to Use This Repository
 - **Data:** The dataset used in this project is not publicly available due to confidentiality agreements. However, a sample dataset with similar structure and fields can be used to replicate the analyses.
 - **SQL Scripts:** The repository contains SQL scripts used for data cleaning, EDA, and generating insights.
-- **Documentation:** Detailed documentation is provided for each phase of the project, including the methodology, code explanations, and key findings.
+- **Documentation:** Detailed documentation is provided for each phase of the project.
 
 ## Conclusion
 The "Consumer Goods Ad-hoc Insights" project highlights the importance of data analytics in modern business decision-making. By leveraging MySQL for comprehensive data analysis, we provided Atliq Hardware with valuable insights that significantly impacted their strategic planning and operational efficiency.
