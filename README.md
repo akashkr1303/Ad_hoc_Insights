@@ -8,7 +8,7 @@ Atliq Hardware sells its products through multiple channels, including e-commerc
 
 ## Objectives
 1. **Deliver Quick, Actionable Data Insights:** Provide the management with real-time, actionable insights to facilitate quick decision-making.
-2. **Support Strategic Planning:** Offer ad-hoc analysis to aid in strategic business planning and market positioning.
+2. **Support Strategic Planning:** Offer solution to 10 ad-hoc analysis requests to aid in strategic business planning and market positioning.
 
 ## Project Phases
 
@@ -26,7 +26,7 @@ Atliq Hardware sells its products through multiple channels, including e-commerc
 - **Purpose:** To perform specific analyses and generate insights.
 - **Activities:** Developed a series of SQL queries to:
   - Calculate sales performance metrics by channel and region.
-  - Analyze product category performance.
+  - Analyze product division performance.
   - Identify top-selling products and underperforming segments.
   - Determine the effectiveness of various sales channels.
 
